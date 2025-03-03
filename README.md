@@ -1,3 +1,5 @@
+# Yet Another Website
+
 # React + Vite + Hono + Cloudflare Workers
 
 This template provides a minimal setup for building a React application with TypeScript and Vite, designed to run on Cloudflare Workers. It features hot module replacement, ESLint integration, and the flexibility of Workers deployments.
